@@ -46,8 +46,8 @@
 <div align="center">
 
 <a href="https://github.com/wahyunurahmadinuh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyunurahmadinuh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyunurahmadinuh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" width= "500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyunurahmadinuh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" width= "500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyunurahmadinuh&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </div>
