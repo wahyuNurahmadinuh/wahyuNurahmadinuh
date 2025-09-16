@@ -6,8 +6,11 @@
 
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="500"/>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> -->
+
+
 ---
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
@@ -137,7 +140,7 @@
 
 <div align="center">
 
-## 🐍 **Contribution Snake**
+## 🐍 **Snake Games**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -145,7 +148,7 @@
 
 ---
 
-### 💭 **Developer Thoughts**
+### 💭 **MY Thoughts (sometimes)**
 *"Sometimes I get so immersed in coding that I forget what I was actually trying to solve"* 
 
 ### 🎯 **Life Goal**
